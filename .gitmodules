@@ -1,0 +1,9 @@
+[submodule "spark-programmer-jlink"]
+	path = spark-programmer-jlink
+	url = https://github.com/aakatz3/spark-programmer-jlink
+[submodule "spark-programmer-jlink-smallerpcb"]
+	path = spark-programmer-jlink-smallerpcb
+	url = https://github.com/aakatz3/spark-programmer-jlink
+[submodule "J-Link-Cortex-VCOM"]
+	path = J-Link-Cortex-VCOM
+	url = https://github.com/aakatz3/J-Link-Cortex-VCOM.git
